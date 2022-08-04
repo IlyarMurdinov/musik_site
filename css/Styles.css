@@ -1,0 +1,39 @@
+body {
+    background: orange;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.Samurai{
+    width: 200px;
+    border-radius: 50px;
+}
+.BrunoMars{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.EdSheeran{
+    width: 200px;
+    border-radius: 100px;
+    margin-left: 2cm
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    color: rgb(0, 255, 55);
+}
+.Ed {
+    margin-left: 315px;
+    margin-top: -40px;
+}
+.Bruno {
+    margin-left: 45px;
+
+}
+
